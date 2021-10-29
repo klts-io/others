@@ -1,0 +1,9 @@
+kit/
+src/
+output/
+release/
+rpmbuild/
+debbuild/
+repos/
+tmp/
+.*
