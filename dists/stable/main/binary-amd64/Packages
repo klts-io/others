@@ -1,0 +1,34 @@
+Package: cri-tools
+Priority: optional
+Section: misc
+Installed-Size: 29764
+Maintainer: Kubernetes Authors <kubernetes-dev@googlegroups.com>
+Architecture: amd64
+Version: 1.19.0-00
+Filename: pool/main/c/cri-tools/cri-tools_1.19.0-00_amd64.deb
+Size: 11167044
+MD5sum: e91e62057d43113c0fb22ed4b31329cc
+SHA1: 2b47b05d1e5bdee9cdbef10f63c1ea69be51687e
+SHA256: f774c4aee2cd96b30608ae2c798844365b6c25a89d651fd1f495a8738339829b
+SHA512: ec55335f845b33440687f67e1b5e967653862f1f83d05f650058f429eef98af2d09b2c70b40a4489fa5faedb5ea84cf664844a721d5cfd3865489823bbbd3f57
+Description: Container Runtime Interface Tools
+ Binaries that interact with the container runtime through the container runtime interface
+Homepage: https://kubernetes.io
+
+Package: kubernetes-cni
+Priority: optional
+Section: misc
+Installed-Size: 73259
+Maintainer: Kubernetes Authors <kubernetes-dev@googlegroups.com>
+Architecture: amd64
+Version: 0.8.7-00
+Filename: pool/main/k/kubernetes-cni/kubernetes-cni_0.8.7-00_amd64.deb
+Size: 26785692
+MD5sum: 19b2b39d8683f1b7de23e3231b585be7
+SHA1: c55c3b1e00424820262f6906bce92d6a6f68db58
+SHA256: ef72ffa15355568f2ca776be5462c17c245a445484163d64e16133d6dc3316d7
+SHA512: 01303ffe6b1e305156cfb833e67f3ebdd287a7bb524613d4594dd3c19a37194d088512376544e2019960e533a1177cdf6c337dee12119fdf5417381de2d55ae3
+Description: Kubernetes CNI
+ The binaries required to provision container networking
+Homepage: https://kubernetes.io
+
